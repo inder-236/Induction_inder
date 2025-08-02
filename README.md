@@ -1,5 +1,7 @@
 #Induction Program Highlights
+
 _Guru Nanak Dev Engineering College (GNDEC)_
+
 ##The college gave us a **warm and wonderful welcome**, making the beginning of our journey truly special.
 **Here are some of the speakers, including our current teachers,respected Principal sir,and some of the Alumni who are now working at great positions. Below are their details and the valuable lessons we learned from them:**
 ##1) HARSIMRAN SINGH
