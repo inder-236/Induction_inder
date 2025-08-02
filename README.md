@@ -1,4 +1,4 @@
-# Induction Program Highlights {_DAY~1_}
+# Induction Program Highlights     _DAY ~ 1_
 
 _Guru Nanak Dev Engineering College (GNDEC)_
 
@@ -41,5 +41,37 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 * Explained the need to adding extra knowledge for continuous growth.
 
 **Key Takeaway:** _Prayer+Passion+Persistence+Patience = Strong foundation and lifelong learning_.
+
+## 5) Prof. HARLEEN KAUR GREWAL (CSE DEPARTMENT)
+
+* Encouraged us to always keep **courage and confidence** alive.
+
+**Key Takeaway:** _Confidence is the key to overcoming challenges._
+
+## 6) Dr. SEHIJPAL SINGH (PRINCIPAL-GNDEC)
+
+* Spoke about the **importance of engineering** in shaping our lives.
+
+* Explained how every branch is connected to **civilization, lifestyle, and quality of life.**
+
+**Key Takeaway:** _Engineering is not just a career, it's a pillar that strengthens society and improves life._
+
+## 7) Dr. KULWINDER SINGH MANN ( PROFESSOR & HEAD OF IT DEPARTMENT)
+
+* Said: _"No matter where you start, by the time you leave thhis college, you will become something valuable."_
+
+* Highlighted that **learning and growth matter more than your starting point.**
+
+**Key Takeaway:** _Effort and learning define your journey, not where you begin._
+
+## 8) RAVINDER GARG
+
+* Advised to **stay focused on studies** and avoid distractions in these 4 crucial years.
+
+**Key Takeaway:** _Discipline now will shape your future success._
+
+
+
+
   
 
