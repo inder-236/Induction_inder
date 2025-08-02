@@ -1,4 +1,4 @@
-# Induction Program Highlights _DAY~1_
+# Induction Program Highlights {_DAY~1_}
 
 _Guru Nanak Dev Engineering College (GNDEC)_
 
