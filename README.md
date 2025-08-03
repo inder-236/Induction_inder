@@ -1,8 +1,10 @@
-# Induction Program Highlights     _DAY ~ 1_
+# Induction Program Highlights    
 
 _Guru Nanak Dev Engineering College (GNDEC)_
 
 ## The college gave us a **warm and wonderful welcome**, making the beginning of our journey truly special.
+
+# _DAY ~ 1_
 
 **Here are some of the speakers, including our current teachers,respected Principal sir,and some of the Alumni who are now working at great positions. Below are their details and the valuable lessons we learned from them:**
 
@@ -71,7 +73,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Discipline now will shape your future success._
 
 
-# _DAY ~ 2_   Induction Program
+# _DAY ~ 2_   
 
 On the second day of the Induction Program, our college organized a special session to help students in academics as well as personal growth.
 
@@ -98,7 +100,7 @@ On the second day of the Induction Program, our college organized a special sess
 **Key Takeaway:** _Academic growth is important, but maintaining good health with the right food choices is equally essential._
 
 
-# _DAY ~ 3_    Induction program
+# _DAY ~ 3_   
 
 
 
