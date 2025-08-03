@@ -71,7 +71,37 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Discipline now will shape your future success._
 
 
-# Induction Program Highlights    _DAY ~ 2_
+# _DAY ~ 2_   Induction Program
+
+On the second day of the Induction Program, our college organized a special session to help students in academics as well as personal growth.
+
+# Buddy4Study Scholarship Session
+
+* Session conducted in collaboration with **Buddy4Study** , one of India's leading scholarship platforms.
+
+* Representatives shared details about various **national and international scholarships.**
+
+* Guided students on how to apply and make the most of these opportunities for **academic success**.
+
+**Key Takeaway:** _Scholarships can provide strong financial support and open doors to higher education opportunities._
+
+# Dr. ARSHDEEP SINGH - FOOD SPECIALIST
+
+* Shared valuable facts about food and health during college life.
+
+* Explained what is **good and badfor health** while managing studies.
+
+* Emphasized avoiding **junk and unhealthy food**.
+
+* Busted common myths with real chemistry behind them, like the popular "_kurkure are made of plastic_" myth.
+
+**Key Takeaway:** _Academic growth is important, but maintaining good health with the right food choices is equally essential._
+
+
+# _DAY ~ 3_    Induction program
+
+
+
 
 
 
