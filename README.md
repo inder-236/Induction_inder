@@ -75,7 +75,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 
 On the second day of the Induction Program, our college organized a special session to help students in academics as well as personal growth.
 
-# Buddy4Study Scholarship Session
+## Buddy4Study Scholarship Session
 
 * Session conducted in collaboration with **Buddy4Study** , one of India's leading scholarship platforms.
 
@@ -85,7 +85,7 @@ On the second day of the Induction Program, our college organized a special sess
 
 **Key Takeaway:** _Scholarships can provide strong financial support and open doors to higher education opportunities._
 
-# Dr. ARSHDEEP SINGH - FOOD SPECIALIST
+## Dr. ARSHDEEP SINGH - FOOD SPECIALIST
 
 * Shared valuable facts about food and health during college life.
 
