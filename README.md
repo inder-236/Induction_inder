@@ -70,6 +70,10 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 
 **Key Takeaway:** _Discipline now will shape your future success._
 
+_DAY ~ 2_
+
+
+
 
 
 
