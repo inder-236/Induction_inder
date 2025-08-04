@@ -132,6 +132,25 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 
 # _DAY ~ 4_
 
+## SESSION BY Dr. PRIYA DARSHNI -(TOPIC ON UNIVERSAL HUMAN VALUES)
+
+* She inspired students to focus on themselves and their emotional well-being.
+
+* Emphasized that happiness should be the **real goal**, not money.
+
+* Highlighted the value of **understanding, relationships,** and **self-growth**.
+
+* Shared practical thoughts about how internal peace leads to a better life.
+
+## INTRODUCTION BY CAUSTIC CLUB
+
+* The **Causmic Club** gave an energetic introduction, proudly calling themselves the **most hardworking club** in the college.
+
+* They mentioned that their team brings **engaging activities and opportunities** for students throughout the year.
+
+* Encoutaged students to participate and **grow through fun and learning.**
+  
+
 
 
 
