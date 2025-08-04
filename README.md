@@ -1,6 +1,5 @@
 # Induction Program Highlights    
-<img width="238" height="212" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />
-_Guru Nanak Dev Engineering College (GNDEC)_
+<img width="238" height="100" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />_Guru Nanak Dev Engineering College_
 
 ## The college gave us a **warm and wonderful welcome**, making the beginning of our journey truly special.
 
