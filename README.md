@@ -1,5 +1,5 @@
 # Induction Program Highlights    
-
+<img width="238" height="212" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />
 _Guru Nanak Dev Engineering College (GNDEC)_
 
 ## The college gave us a **warm and wonderful welcome**, making the beginning of our journey truly special.
@@ -37,7 +37,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Balanced learning builds overall personality_.
 
 ## 4) Dr. HARPREET KAUR GREWAL(HOD-APPLIED SCIENCE)
-![WhatsApp Image 2025-08-04 at 11 31 58 PM](https://github.com/user-attachments/assets/395c62b5-6131-4a1c-8e3b-a696f42cef6c)
+![WhatsApp Image 2025-08-04 at 11 31 59 PM (1)](https://github.com/user-attachments/assets/acb37da1-fb0b-4ab6-99d8-aac94ee1970d)
 
 * Taught that learning should start with **Prayer**, be filled with **Passion**, continue with **Persistence**, and guided by **Patience**.
 
@@ -52,6 +52,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Confidence is the key to overcoming challenges._
 
 ## 6) Dr. SEHIJPAL SINGH (PRINCIPAL-GNDEC)
+![WhatsApp Image 2025-08-04 at 11 32 00 PM (1)](https://github.com/user-attachments/assets/b40a0541-8ade-4848-a032-be43efa731ea)
 
 * Spoke about the **importance of engineering** in shaping our lives.
 
@@ -60,6 +61,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Engineering is not just a career, it's a pillar that strengthens society and improves life._
 
 ## 7) Dr. KULWINDER SINGH MANN ( PROFESSOR & HEAD OF IT DEPARTMENT)
+![WhatsApp Image 2025-08-04 at 11 31 59 PM](https://github.com/user-attachments/assets/5ec94df7-250f-459c-aaf2-c636eee5bafa)
 
 * Said: _"No matter where you start, by the time you leave thhis college, you will become something valuable."_
 
@@ -68,6 +70,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Effort and learning define your journey, not where you begin._
 
 ## 8) RAVINDER GARG
+![WhatsApp Image 2025-08-04 at 11 31 57 PM](https://github.com/user-attachments/assets/fce9e79b-eab2-40f4-93e6-f1cb0c1b4038)
 
 * Advised to **stay focused on studies** and avoid distractions in these 4 crucial years.
 
@@ -89,6 +92,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 **Key Takeaway:** _Scholarships can provide strong financial support and open doors to higher education opportunities._
 
 ## Dr. ARSHDEEP SINGH - FOOD SPECIALIST
+![WhatsApp Image 2025-08-04 at 11 31 56 PM](https://github.com/user-attachments/assets/2d1eff15-0231-4640-954d-75c4afc06f68)
 
 * Shared valuable facts about food and health during college life.
 
@@ -106,6 +110,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 ## On third day of the Induction Program, students experienced sessions blending science, spirituality, and human values.
 
 ## Dr. JASWINDER SINGH ( Incharge-IAPT)
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/740f3edf-6b1f-431d-83c4-6d1741843bea" />
 
 * Connected **spirituality with science**, creating a deep understanding of life and learning.
 
@@ -134,6 +139,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 # _DAY ~ 4_
 
 ## SESSION BY Dr. PRIYA DARSHNI -(TOPIC ON UNIVERSAL HUMAN VALUES)
+![WhatsApp Image 2025-08-04 at 11 32 01 PM](https://github.com/user-attachments/assets/0e20b159-f545-42e6-9396-41a4bc1f6e67)
 
 * She inspired students to focus on themselves and their emotional well-being.
 
@@ -144,6 +150,7 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 * Shared practical thoughts about how internal peace leads to a better life.
 
 ## INTRODUCTION BY CAUSTIC CLUB
+![WhatsApp Image 2025-08-04 at 11 32 00 PM](https://github.com/user-attachments/assets/2ce8d927-41a9-4124-8631-703ad58db9b5)
 
 * The **Causmic Club** gave an energetic introduction, proudly calling themselves the **most hardworking club** in the college.
 
