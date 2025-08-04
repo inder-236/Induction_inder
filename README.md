@@ -102,6 +102,36 @@ On the second day of the Induction Program, our college organized a special sess
 
 # _DAY ~ 3_  
 
+## On third day of the Induction Program, students experienced sessions blending science, spirituality, and human values.
+
+## Dr. JASWINDER SINGH ( Incharge-IAPT)
+
+* Connected **spirituality with science**, creating a deep understanding of life and learning.
+
+* Explained how **Mathematics exists** in everythinng around us.
+
+* Talked about **Guru Nanak Dev ji's teachings** and how they relate to knowledge and discipline.
+
+* Demonstrated **Longitudinal and transverse waves** with practical activities and linked **sound** to spirituality, making Physics interactive and meaningful.
+
+* Encouraged students to explore science with curiosity and connect it with real-life experiences.
+
+**Key Takeaway:** Knowledge becomes more powerful when we connect science, spirituality, and real-life experiences together.
+
+## Dr. PRIYA DARSHNI -(TOPIC ON UNIVERSAL HUMAN VALUES)
+
+* Explained the difference between what is truly **important in life** and what is not.
+
+* Highlighted that **money is not the ultimate goal;** real wealth lies in **happiness and strong relationships.**
+
+* Emphasized that our goal should be to **stay happy and spread happiness**, not just to earn more money.
+
+* Stressed the value of **human connection and empathy** in personal and professional life.
+
+**Key Takeaway:** _Happiness and meaningful relationships define true success, not just money._
+
+# _DAY ~ 4_
+
 
 
 
