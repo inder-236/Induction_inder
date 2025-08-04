@@ -100,7 +100,9 @@ On the second day of the Induction Program, our college organized a special sess
 **Key Takeaway:** _Academic growth is important, but maintaining good health with the right food choices is equally essential._
 
 
-# _DAY ~ 3_   
+# _DAY ~ 3_  
+
+
 
 
 
