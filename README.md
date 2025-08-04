@@ -75,9 +75,9 @@ _Guru Nanak Dev Engineering College (GNDEC)_
 
 # _DAY ~ 2_   
 
-On the second day of the Induction Program, our college organized a special session to help students in academics as well as personal growth.
+## On the second day of the Induction Program, our college organized a special session to help students in academics as well as personal growth.
 
-## Buddy4Study Scholarship Session
+## BUDDY4STUDY SCHOLARSHIP SESSION
 
 * Session conducted in collaboration with **Buddy4Study** , one of India's leading scholarship platforms.
 
