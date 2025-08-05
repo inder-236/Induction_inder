@@ -52,7 +52,7 @@ _Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" 
 **Key Takeaway:** _Confidence is the key to overcoming challenges._
 
 ## 6) Dr. SEHIJPAL SINGH (PRINCIPAL-GNDEC)
-![WhatsApp Image 2025-08-04 at 11 32 00 PM (1)](https://github.com/user-attachments/assets/b40a0541-8ade-4848-a032-be43efa731ea)
+![1](https://github.com/user-attachments/assets/22f1fce3-38b1-4ca4-b304-0e599d5fd74b)
 
 * Spoke about the **importance of engineering** in shaping our lives.
 
