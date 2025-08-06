@@ -37,7 +37,7 @@ _Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" 
 **Key Takeaway:** _Balanced learning builds overall personality_.
 
 ## 4) Dr. HARPREET KAUR GREWAL(HOD-APPLIED SCIENCE)
-![WhatsApp Image 2025-08-04 at 11 31 59 PM (1)](https://github.com/user-attachments/assets/acb37da1-fb0b-4ab6-99d8-aac94ee1970d)
+![hod](https://github.com/user-attachments/assets/6213a842-8645-42cd-b74d-5abc9458858e)
 
 * Taught that learning should start with **Prayer**, be filled with **Passion**, continue with **Persistence**, and guided by **Patience**.
 
