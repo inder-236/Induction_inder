@@ -1,4 +1,4 @@
-_Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />
+_Guru Nanak Dev Engineering College_ <img width="238" height="200" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />
 
 # Induction Program Highlights 
 
@@ -157,6 +157,10 @@ _Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" 
 * They mentioned that their team brings **engaging activities and opportunities** for students throughout the year.
 
 * Encoutaged students to participate and **grow through fun and learning.**
+
+# _DAY ~ 5_
+
+
   
 
 
