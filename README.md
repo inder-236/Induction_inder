@@ -61,7 +61,7 @@ _Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" 
 **Key Takeaway:** _Engineering is not just a career, it's a pillar that strengthens society and improves life._
 
 ## 7) Dr. KULWINDER SINGH MANN ( PROFESSOR & HEAD OF IT DEPARTMENT)
-![Uploading mann.jpg…]()
+![Uploading mann.jpeg…]()
 
 * Said: _"No matter where you start, by the time you leave thhis college, you will become something valuable."_
 
