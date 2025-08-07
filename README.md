@@ -72,7 +72,7 @@
 **Key Takeaway:** _Effort and learning define your journey, not where you begin._
 
 ## 8) RAVINDER GARG
-![WhatsApp Image 2025-08-04 at 11 31 57 PM](https://github.com/user-attachments/assets/fce9e79b-eab2-40f4-93e6-f1cb0c1b4038)
+![RAVINDER](https://github.com/user-attachments/assets/8c8c2e48-70cd-4251-b0b8-136b57390666)
 
 * Advised to **stay focused on studies** and avoid distractions in these 4 crucial years.
 
@@ -94,7 +94,7 @@
 **Key Takeaway:** _Scholarships can provide strong financial support and open doors to higher education opportunities._
 
 ## Dr. ARSHDEEP SINGH - FOOD SPECIALIST
-![WhatsApp Image 2025-08-04 at 11 31 56 PM](https://github.com/user-attachments/assets/2d1eff15-0231-4640-954d-75c4afc06f68)
+![FOOD](https://github.com/user-attachments/assets/525f9f56-33b1-4b70-a5f9-15a5affbd482)
 
 * Shared valuable facts about food and health during college life.
 
