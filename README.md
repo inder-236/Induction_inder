@@ -61,7 +61,7 @@ _Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" 
 **Key Takeaway:** _Engineering is not just a career, it's a pillar that strengthens society and improves life._
 
 ## 7) Dr. KULWINDER SINGH MANN ( PROFESSOR & HEAD OF IT DEPARTMENT)
-![Uploading mann.jpeg…]()
+![mann](https://github.com/user-attachments/assets/c3cc9f30-9b9c-4b01-826a-d92ed8011cc4)
 
 * Said: _"No matter where you start, by the time you leave thhis college, you will become something valuable."_
 
@@ -110,7 +110,7 @@ _Guru Nanak Dev Engineering College_ <img width="238" height="100" alt="images" 
 ## On third day of the Induction Program, students experienced sessions blending science, spirituality, and human values.
 
 ## Dr. JASWINDER SINGH ( Incharge-IAPT)
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/740f3edf-6b1f-431d-83c4-6d1741843bea" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/740f3edf-6b1f-431d-83c4-6d1741843bea" />
 
 * Connected **spirituality with science**, creating a deep understanding of life and learning.
 
