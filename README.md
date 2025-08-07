@@ -141,7 +141,7 @@
 # _DAY ~ 4_
 
 ## SESSION BY Dr. PRIYA DARSHNI -(TOPIC ON UNIVERSAL HUMAN VALUES)
-![WhatsApp Image 2025-08-04 at 11 32 01 PM](https://github.com/user-attachments/assets/0e20b159-f545-42e6-9396-41a4bc1f6e67)
+![PRIYA DARSHNI MAM](https://github.com/user-attachments/assets/609d9fb7-9525-4394-8320-cf6c4157ebd2)
 
 * She inspired students to focus on themselves and their emotional well-being.
 
@@ -152,7 +152,7 @@
 * Shared practical thoughts about how internal peace leads to a better life.
 
 ## INTRODUCTION BY CAUSTIC CLUB
-![WhatsApp Image 2025-08-04 at 11 32 00 PM](https://github.com/user-attachments/assets/2ce8d927-41a9-4124-8631-703ad58db9b5)
+![CAUSMIC CLUB](https://github.com/user-attachments/assets/d4828331-0a90-4eeb-8797-aa5670e58c58)
 
 * The **Causmic Club** gave an energetic introduction, proudly calling themselves the **most hardworking club** in the college.
 
