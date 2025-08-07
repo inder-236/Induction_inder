@@ -162,6 +162,23 @@
 
 # _DAY ~ 5_
 
+## 1. P2P SESSION - Introduction to C++ by seniors:
+
+* The day began with a peer-to-peer learning session, where our **seniors introduced us to the basics of C++ programming.**
+They explained fundamental concepts ina clear and relatable manner, setting a strong base for our coding journey.
+
+## 2. BEEE LECTURE BY PROF. SIMRANJEET KAUR(ECE):
+
+* The next session was conducted by Prof. Simranjeet mam, who gave an insightful introduction to the subject **Basic Electrical and Electronics Engineering (BEEE).**
+She encouraged students to introduce themselves and gave a detailed overview of the subject syllabus. Her warm and engaging approach made the class interactive and welcoming.
+
+## 3. MATHEMATICS LECTURE BY PROF. SUKHMINDER SINGH:
+
+* The final lecture of teh day was delivered by **PROF. SUKHMINDER SINGH** , who made the **math session lively and practical**.
+He introduced various useful apps to help us with the subject and shared tips to strengthen our understanding . His way of teaching was highly interactive and filled with enthusiasm.
+
+# _DAY ~ 6_
+
 
   
 
