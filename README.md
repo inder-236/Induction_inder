@@ -1,4 +1,5 @@
-                        _Guru Nanak Dev Engineering College_  <img width="238" height="200" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />
+_Guru Nanak Dev Engineering College_ 
+                                     <img width="238" height="200" alt="images" src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" />
                                                                                                    
 # Induction Program Highlights 
 
