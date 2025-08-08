@@ -1,7 +1,7 @@
  <p align= "center">
  <img src="https://github.com/user-attachments/assets/59b558bb-0cf4-488c-b96c-a45a4a9f69e4" width="238" height="200" alt="Logic Gate" />
  <br>
- <b> _Guru Nanak Dev Engineering College_ </b>
+ <b>Guru Nanak Dev Engineering College</b>
 </p>
 
                                                                                             
