@@ -189,7 +189,9 @@
 
 ## 2. INTERACTIVE SESSION BY PROF. LAKHWINDER SINGH:
 
->> Next, we had an enlightening session with **prof. Lakhwinder Singh**, who introduced us 
+>> Next, we had an enlightening session with **prof. Lakhwinder Singh**, who introduced us to **SWAYAM** an online learning platform.
+>> He explained how **IIT Bombay and other IIT professors** teach through SWAYAM and how students can access high-quality lectures from some of the best minds in india. He also shared the benefits of using this platform for enhancing skills, gaining certifications, and staying ahead in academics.
+
 
 
   
