@@ -167,29 +167,29 @@
 
 ## 1. P2P SESSION - Introduction to C++ by seniors:
 
->>The day began with a peer-to-peer learning session, where our **seniors introduced us to the basics of C++ programming.**
+>The day began with a peer-to-peer learning session, where our **seniors introduced us to the basics of C++ programming.**
 >>They explained fundamental concepts ina clear and relatable manner, setting a strong base for our coding journey.
 
 ## 2. BEEE LECTURE BY PROF. SIMRANJEET KAUR(ECE):
 
->> The next session was conducted by Prof. Simranjeet mam, who gave an insightful introduction to the subject **Basic Electrical and Electronics Engineering (BEEE).**
+> The next session was conducted by Prof. Simranjeet mam, who gave an insightful introduction to the subject **Basic Electrical and Electronics Engineering (BEEE).**
 >>She encouraged students to introduce themselves and gave a detailed overview of the subject syllabus. Her warm and engaging approach made the class interactive and welcoming.
 
 ## 3. MATHEMATICS LECTURE BY PROF. SUKHMINDER SINGH:
 
->>The final lecture of teh day was delivered by **PROF. SUKHMINDER SINGH** , who made the **math session lively and practical**.
+>The final lecture of teh day was delivered by **PROF. SUKHMINDER SINGH** , who made the **math session lively and practical**.
 >>He introduced various useful apps to help us with the subject and shared tips to strengthen our understanding . His way of teaching was highly interactive and filled with enthusiasm.
 
 # _DAY ~ 6_
 
 ## 1. SESSION WITH NANKANA SAHIB TRUST MEMBER:
 
->> The Day began with an inspiring talk by a **member of the Nankana sahib Trust,** who is also an alumnus of our college.
+> The Day began with an inspiring talk by a **member of the Nankana sahib Trust,** who is also an alumnus of our college.
 >> He shared his journey from being a student here to becoming a respected trustee. His story highlighted the values, opportunities, and life lessons this college offers, motivating us to aim high and give our best.
 
 ## 2. INTERACTIVE SESSION BY PROF. LAKHWINDER SINGH:
 
->> Next, we had an enlightening session with **prof. Lakhwinder Singh**, who introduced us to **SWAYAM** an online learning platform.
+> Next, we had an enlightening session with **prof. Lakhwinder Singh**, who introduced us to **SWAYAM** an online learning platform.
 >> He explained how **IIT Bombay and other IIT professors** teach through SWAYAM and how students can access high-quality lectures from some of the best minds in india. He also shared the benefits of using this platform for enhancing skills, gaining certifications, and staying ahead in academics.
 
 
