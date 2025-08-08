@@ -179,6 +179,15 @@ He introduced various useful apps to help us with the subject and shared tips to
 
 # _DAY ~ 6_
 
+## 1. SESSION WITH NANKANA SAHIB TRUST MEMBER:
+
+* The Day began with an inspiring talk by a **member of the Nankana sahib Trust,** who is also an alumnus of our college.
+>> He shared his journey from being a student here to becoming a respected trustee. His story highlighted the values, opportunities, and life lessons this college offers, motivating us to aim high and give our best.
+
+## 2. INTERACTIVE SESSION BY PROF. LAKHWINDER SINGH:
+
+* Next, we had an enlightening session with **prof. Lakhwinder Singh**, who introduced us 
+
 
   
 
