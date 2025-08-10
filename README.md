@@ -154,7 +154,7 @@
 
 * Shared practical thoughts about how internal peace leads to a better life.
 
-## INTRODUCTION BY CAUSTIC CLUB
+## INTRODUCTION BY CAUSMIC CLUB
 ![CAUSMIC CLUB](https://github.com/user-attachments/assets/d4828331-0a90-4eeb-8797-aa5670e58c58)
 
 * The **Causmic Club** gave an energetic introduction, proudly calling themselves the **most hardworking club** in the college.
