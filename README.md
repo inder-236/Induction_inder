@@ -192,6 +192,31 @@
 > Next, we had an enlightening session with **prof. Lakhwinder Singh**, who introduced us to **SWAYAM** an online learning platform.
 >> He explained how **IIT Bombay and other IIT professors** teach through SWAYAM and how students can access high-quality lectures from some of the best minds in india. He also shared the benefits of using this platform for enhancing skills, gaining certifications, and staying ahead in academics.
 
+# _DAY ~ 7_
+
+## 1. DR.AMIT KAMRA:
+
+> Guidance on academic structure and department responsibilities.
+
+## 2. DR. PARMINDER SINGH:
+
+> Talk on student welfare and available support systems in the college.
+
+## 3. DR. RANDHIR SINGH:
+
+> Session on "COnduct of Examination ", explaining rules, procedures, and best practices.
+
+**Kay Takeaway:** _Understanding institutional processes and resources is as important as excelling in academics._
+
+# CONCLUSION
+
+* The induction programme at GNDEC was a wonderful and enriching experience for me . It is not only gave me a warm welcome into the college environment but also introduced me to its **rich culture, values, and traditions. Through various lectures,expert talks , and interactive sessions**, I gained valuable knowledge about my department , the facilities available , and the opportunities the college offers for academic and personal growth.
+
+  i also learnt the importance od **discipline, teamwork, and staying open to new experiences.** Listening to alumni and industry experts inspired me to set clear goals for my future and work to achieve them. Overall, the programme helped me feel confident, connected, and motivated to begin my journey as a GNDEC student with enthusiasm and dedication.
+
+**Thankyou**
+
+(by Inderpreet Kaur)
 
 
   
