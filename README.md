@@ -216,9 +216,9 @@
 
 **Thankyou**
 
-(by Inderpreet Kaur)
+<p align="right">(by Inderpreet Kaur)</p>
 
-(IT-B)
+<p align="right">(IT-B)</p>
 
 
   
