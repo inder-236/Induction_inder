@@ -214,7 +214,7 @@
 
   i also learnt the importance od **discipline, teamwork, and staying open to new experiences.** Listening to alumni and industry experts inspired me to set clear goals for my future and work to achieve them. Overall, the programme helped me feel confident, connected, and motivated to begin my journey as a GNDEC student with enthusiasm and dedication.
 
-**Thankyou**
+# **Thankyou**
 
 <p align="right">(by Inderpreet Kaur)</p>
 
