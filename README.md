@@ -220,55 +220,11 @@
 
 <p align="right">(IT-B)</p>
 
-<!DOCTYPE html>
 
-<html lang="en">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>Hydrogen Fuel Cell Technology</title>
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap" rel="stylesheet"/>
-</head>
-<body class="bg-gray-900 text-white" style="width: 1280px; min-height: 720px; overflow: hidden; font-family: 'Roboto', sans-serif;">
-<div class="flex flex-col items-center justify-center h-screen relative">
-<!-- Background Element -->
-<div class="absolute inset-0 z-0 overflow-hidden">
-<div class="absolute bottom-0 left-0 w-full h-1/2 bg-blue-900 opacity-10"></div>
-<div class="absolute top-40 right-40 w-96 h-96 rounded-full bg-blue-500 opacity-5"></div>
-<div class="absolute bottom-40 left-40 w-64 h-64 rounded-full bg-blue-300 opacity-5"></div>
-</div>
-<!-- Content Container -->
-<div class="z-10 flex flex-col items-center justify-center text-center px-20 py-16">
-<!-- Decorative Element -->
-<div class="mb-8">
-<svg fill="none" height="120" viewbox="0 0 100 100" width="120" xmlns="http://www.w3.org/2000/svg">
-<circle cx="50" cy="50" r="45" stroke="#3B82F6" stroke-width="2"></circle>
-<circle cx="50" cy="50" r="35" stroke="#3B82F6" stroke-dasharray="4 4" stroke-width="1.5"></circle>
-<circle cx="50" cy="50" fill="#3B82F6" fill-opacity="0.1" r="20"></circle>
-<text fill="#3B82F6" font-size="16" font-weight="bold" x="42" y="55">H₂</text>
-</svg>
-</div>
-<!-- Title -->
-<h1 class="text-6xl font-bold tracking-tight mb-6 text-blue-50">HYDROGEN FUEL CELL</h1>
-<h2 class="text-7xl font-black tracking-tighter mb-8 text-blue-300">TECHNOLOGY</h2>
-<!-- Divider -->
-<div class="w-24 h-1 bg-blue-500 mb-8"></div>
-<!-- Subtitle -->
-<p class="text-xl text-blue-100 max-w-3xl mb-10">
-                Comprehensive overview of principles, working mechanisms, advantages, disadvantages, and future applications
-            </p>
-<!-- Bottom Banner -->
-<div class="absolute bottom-12 flex items-center justify-center w-full">
-<div class="flex items-center bg-blue-900 bg-opacity-30 px-6 py-2 rounded-lg">
-<div class="w-3 h-3 rounded-full bg-blue-400 mr-3 animate-pulse"></div>
-<p class="text-blue-300 text-sm">Clean Energy for a Sustainable Future</p>
-</div>
-</div>
-</div>
-</div>
-</body>
-</html>
+
+
+
+
 
 
   
